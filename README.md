@@ -1,7 +1,7 @@
 <h1 align="center">Wide Coverage Location</h1>
 <br>
 <br>
-<p>This projects is was first one responsive (using @media queries) built for desktop and mobile.</p>
+<p>This projects was my first one responsive (using @media queries) built for desktop and mobile.</p>
 <br>
 <br>
 Technologies:
